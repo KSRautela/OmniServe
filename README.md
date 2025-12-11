@@ -1,5 +1,3 @@
-
-https://github.com/user-attachments/assets/fe9012b3-dfbe-415a-b6c0-22261c8c9d69
 # OmniServe
 
 ## Overview
