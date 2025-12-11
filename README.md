@@ -1,3 +1,5 @@
+
+https://github.com/user-attachments/assets/fe9012b3-dfbe-415a-b6c0-22261c8c9d69
 # OmniServe
 
 ## Overview
@@ -237,3 +239,11 @@ For vector-based control: Input direction (angle) and distance; the robot will e
 - Sanshray Choudhary
 
 All from University School of Information, Communication & Technology (USIC&T), GGSIPU.
+![P2](https://github.com/user-attachments/assets/8a79cce1-57eb-4e5a-94da-365dbde79f8c)
+<img width="1876" height="1080" alt="P1" src="https://github.com/user-attachments/assets/18a1cf9f-0fc7-4961-bed0-7e8829492a53" />
+
+https://github.com/user-attachments/assets/2191d19c-5f80-4a97-89c5-958dc1a19f35
+
+
+
+
